@@ -226,6 +226,7 @@ p {
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
+  text-align: justify;
 }
 .skillset .item {
   margin-bottom: 15px;
